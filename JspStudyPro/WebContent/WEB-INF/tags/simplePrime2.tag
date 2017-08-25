@@ -1,0 +1,1 @@
+<%= utils.Primes.nextPrime(utils.Primes.random(50)) %>
